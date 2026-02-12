@@ -21,6 +21,7 @@ The project is designed to reflect **real registry operations,** focusing on how
 -	**Coverage:** Multi-state simulated national registry
 -	Key Variables:
 Sex, Age at Diagnosis, Primary Site, Stage Group, State of Residence, Diagnostic Confirmation
+
 ⚠️ Dataset is fully simulated for portfolio purposes.
 
 # Registry Executive Overview
@@ -40,7 +41,9 @@ What the Visual Shows
 -	**Variance: 432.6**
 ## Operational Interpretation
 From a registry systems perspective, this page immediately surfaces two critical performance signals:
+
 1 **Late-stage burden is high:** 4 out of every 10 registered patients present at advanced stages, indicating delayed diagnosis or referral bottlenecks.
+
 2 **Staging completeness is weak:** 1 in 5 cases lack stage information, pointing to incomplete abstraction, delayed pathology reporting, or missing clinical documentation.
 This combination suggests that while case capture volume is strong, **clinical depth of data is constrained by system processes.**
 
