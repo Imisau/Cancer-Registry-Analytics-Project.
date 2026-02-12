@@ -82,60 +82,59 @@ In registry operations, staging data is dependent on:
 -	Clinician documentation
 -	Timely abstraction
 
+# System Performance & Registry Gaps
 
-📄 Page 5: Geographic Distribution of Cases
+![](https://github.com/Imisau/Cancer-Registry-Analytics-Project./blob/main/CancerReg3.png)
+### (Geographic Coverage & Drivers of Late Diagnosis)
+
 What the Visual Shows
-•	Case counts by state
-Observed Pattern
-•	Higher volumes in urbanized states
-Operational Interpretation
+-	Case counts by state, Observed Pattern;	Higher volumes in urbanized states
+## Operational Interpretation:
 This pattern likely reflects reporting access rather than true incidence.
-Registry-level implication:
-•	Urban facilities have stronger reporting pipelines
-•	Rural under-ascertainment is probable
-•	Registry coverage is uneven geographically
-This insight supports the need for:
-•	Expanded reporting facility networks
-•	Outreach to under-represented regions
-________________________________________
-📄 Page 6: Diagnostic Confirmation Methods
-What the Visual Shows
-•	Distribution of diagnostic confirmation types
-Operational Interpretation
+
+## Registry-level implication:
+-	Urban facilities have stronger reporting pipelines
+-	Rural under-ascertainment is probable
+-	Registry coverage is uneven geographically
+
+### This insight supports the need for:
+-	Expanded reporting facility networks
+-	Outreach to under-represented region
+
+  
+## The Diagnostic Confirmation Methods; Operational Interpretation
+
 While histology-based confirmation dominates, a notable share of cases rely on clinical diagnosis.
-This suggests:
-•	Variable diagnostic capacity across facilities
-•	Pathology access limitations in some regions
-For registry systems, this affects:
-•	Staging accuracy
-•	Case comparability
-•	Longitudinal trend reliability
-________________________________________
-📄 Page 7: Statistical Relationship — Age vs Stage at Diagnosis
-What the Visual Supports
-•	Comparison of age groups across stage categories
-Statistical Results
-•	Correlation (Age vs Stage): r = 0.001
-•	Regression R²: 0.000005
-Operational Interpretation
-Statistically, age explains less than 0.001% of late-stage diagnosis.
+
+#### This suggests:
+-	Variable diagnostic capacity across facilities
+-	Pathology access limitations in some regions
+#### For registry systems, this affects:
+-	Staging accuracy
+-	Case comparability
+-	Longitudinal trend reliability
+
+## Statistical Relationship — Age vs Stage at Diagnosis
+
+-	Comparison of age groups across stage categories
+Statistical Results **explains less than 0.001% of late-stage diagnosis.**
 This is a crucial registry insight:
-Late presentation is not age-driven — it is system-driven.
+Late presentation is not age-driven — it is **system-driven.**
 Operationally, this redirects intervention focus from:
-•	Demographic targeting
+-	Demographic targeting
 to
-•	Referral pathways
-•	Diagnostic turnaround
-•	Registry abstraction workflows
-________________________________________
-🧠 Key Registry System Insights
-•	40.01% late-stage diagnosis reflects delayed detection and referral inefficiencies
-•	20.02% missing staging exposes abstraction and documentation gaps
-•	High age variance confirms broad demographic coverage
-•	No age–stage relationship confirms system-level failure points
-•	Geographic clustering reveals reporting access inequality
-________________________________________
-📈 Impact & Use Cases
+-	**Referral pathways**
+-	**Diagnostic turnaround**
+-	**Registry abstraction workflows**
+
+# 🧠 Key Registry System Insights
+-	**40.01% late-stage diagnosis** reflects delayed detection and referral inefficiencies
+-	**20.02% missing staging exposes** abstraction and documentation gaps
+- High age variance confirms broad **demographic coverage**
+-	No age–stage relationship confirms **system-level failure points**
+-	Geographic clustering reveals **reporting access inequality**
+
+# 📈 Impact & Use Cases
 This project supports:
 •	Cancer registry performance reviews
 •	Health information system strengthening
