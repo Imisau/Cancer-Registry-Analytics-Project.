@@ -134,11 +134,5 @@ to
 -	No age–stage relationship confirms **system-level failure points**
 -	Geographic clustering reveals **reporting access inequality**
 
-# 📈 Impact & Use Cases
-This project supports:
-•	Cancer registry performance reviews
-•	Health information system strengthening
-•	Evidence-based screening policy design
-•	Donor and Ministry of Health reporting
-•	Registry quality improvement planning
+ 📈 Interact with dataset Here
 
